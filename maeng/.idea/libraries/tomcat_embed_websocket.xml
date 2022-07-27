@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="tomcat-embed-websocket">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-embed-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-embed-jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-embed-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-embed-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ecj-4.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
